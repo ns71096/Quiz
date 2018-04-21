@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="correct_toast">You got it!</string>
+    <string name="wrong_toast">You missed it!</string>
+    <string name="question1">Electrons are larger than molecules?</string>
+    <string name="question2">The Atlantic Ocean is the biggest ocean on Earth?</string>
+    <string name="question3">The chemical make up food often changes when you cook it?</string>
+    <string name="question4">Sharks are mammals?</string>
+    <string name="question5">The human body has four lungs?</string>
+    <string name="question6">Atoms are most stable when their outer shells are full?</string>
+    <string name="question7">Filtration separates mixtures based upon their particle size?</string>
+    <string name="question8">Venus is the closest planet to the Sun?</string>
+    <string name="question9">Conductors have low resistance?</string>
+    <string name="question10">Molecules can have atoms from more than one chemical element?</string>
+    <string name="button1_text">TRUE</string>
+    <string name="button2_text">FALSE</string>
+    <string name="default_start_value">Score: 0/10</string>
+    <string name="alternate_name">quiz_part1</string>
+
+
+</resources>
